@@ -9,7 +9,7 @@
 
 ## About this Course
 
-This course will introduce the learner to network analysis through tutorials using the NetworkX library. The course begins with an understanding of what network analysis is and motivations for why we might model phenomena as networks. The second week introduces the concept of connectivity and network robustness. The third week will explore ways of measuring the importance or centrality of a node in a network. The final week will explore the evolution of networks over time and cover models of network generation and the link prediction problem. 
+This course will introduce the learner to network analysis through tutorials using the NetworkX library. The course begins with an understanding of what network analysis is and motivations for why we might model phenomena as networks. The second week introduces the concept of connectivity and network robustness. The third week will explore ways of measuring the importance or centrality of a node in a network. The final week will explore the evolution of networks over time and cover models of network generation and the link prediction problem.
 
 This course should be taken after: Introduction to Data Science in Python, Applied Plotting, Charting & Data Representation in Python, and Applied Machine Learning in Python.
 
@@ -17,13 +17,13 @@ This course should be taken after: Introduction to Data Science in Python, Appli
 
 ### WEEK 1
 
-* **Key Concepts**
-	* Recognize and categorize real world networks.
-	* Identify applications and important questions about networks that network science allows us to answer.
-	* Determine what type of network is best suited to model real networked data.
-	* Construct and manipulate networks of different types using different network classes and node and edge attributes in NetworkX.
-	* Define bipartite graphs and describe related algorithms such as graph projections.
-	* Manipulate bipartite graphs and related algorithms using NetworkX.
+- **Key Concepts**
+  - Recognize and categorize real world networks.
+  - Identify applications and important questions about networks that network science allows us to answer.
+  - Determine what type of network is best suited to model real networked data.
+  - Construct and manipulate networks of different types using different network classes and node and edge attributes in NetworkX.
+  - Define bipartite graphs and describe related algorithms such as graph projections.
+  - Manipulate bipartite graphs and related algorithms using NetworkX.
 
 #### Module 1: Why Study Networks and Basics on NetworkX
 
@@ -34,14 +34,14 @@ Module One introduces you to different types of networks in the real world and w
 
 ### WEEK 2
 
-* **Key Concepts**
-	* Describe how distance measures can be used to identify central and peripheral nodes in networks and use networkX to identify central and peripheral nodes.
-	* Define connected components in directed and undirected graphs and use networkX to find them.
-	* Identify ways of measuring clustering in networks and distinguish the differences in the measures.
-	* Measure clustering in graphs in NetworkX.
-	* Identify different types of network attacks and relate them to real world examples.
-	* Define node and edge connectivity of a network and describe their implication to network robustness.
-	* Assess how resistant a network is to node and edge removal attacks, using networkX.
+- **Key Concepts**
+  - Describe how distance measures can be used to identify central and peripheral nodes in networks and use networkX to identify central and peripheral nodes.
+  - Define connected components in directed and undirected graphs and use networkX to find them.
+  - Identify ways of measuring clustering in networks and distinguish the differences in the measures.
+  - Measure clustering in graphs in NetworkX.
+  - Identify different types of network attacks and relate them to real world examples.
+  - Define node and edge connectivity of a network and describe their implication to network robustness.
+  - Assess how resistant a network is to node and edge removal attacks, using networkX.
 
 #### Module 2: Network Connectivity
 
@@ -52,12 +52,12 @@ In Module Two you'll learn how to analyze the connectivity of a network based on
 
 ### WEEK 3
 
-* **Key Concepts**
-	* Identify and define several network centrality measures.
-	* Describe the differences and similarities between several centrality measures.
-	* Measure the centrality of nodes in a network using NetworkX.
-	* Describe how network centrality measures can be used for real world applications.
-	* Apply centrality analysis to real world networks.
+- **Key Concepts**
+  - Identify and define several network centrality measures.
+  - Describe the differences and similarities between several centrality measures.
+  - Measure the centrality of nodes in a network using NetworkX.
+  - Describe how network centrality measures can be used for real world applications.
+  - Apply centrality analysis to real world networks.
 
 #### Module 3: Influence Measures and Network Centralization
 
@@ -68,14 +68,14 @@ In Module Three, you'll explore ways of measuring the importance or centrality o
 
 ### WEEK 4
 
-* **Key Concepts**
-	* Define the degree distribution of a network and use networkX to visualize it.
-	* Identify the typical properties of real, large networks such as power law like degree distribution, high clustering, and small average shortest paths.
-	* Describe the mechanics of the Preferential Attachment Model and identify the properties of the networks it generates.
-	* Describe the mechanics of the Small World Model and identify the properties of the networks it generates.
-	* Identify and describe several network measures that can be used for link prediction.
-	* Use NetworkX to create node pair features that are predictive of new edges.
-	* Use NetworkX to create node features that are predictive of node attributes in a real world setting.
+- **Key Concepts**
+  - Define the degree distribution of a network and use networkX to visualize it.
+  - Identify the typical properties of real, large networks such as power law like degree distribution, high clustering, and small average shortest paths.
+  - Describe the mechanics of the Preferential Attachment Model and identify the properties of the networks it generates.
+  - Describe the mechanics of the Small World Model and identify the properties of the networks it generates.
+  - Identify and describe several network measures that can be used for link prediction.
+  - Use NetworkX to create node pair features that are predictive of new edges.
+  - Use NetworkX to create node features that are predictive of node attributes in a real world setting.
 
 #### Module 4: Network Evolution
 
@@ -85,25 +85,17 @@ In Module Four, you'll explore the evolution of networks over time, including th
 **Graded:** Assignment 4 Submission
 
 #
+
 ## Grading and Assignments
 
-|Course Item|Percentage of Final Grade|Passing Grade|
-|:---:|:---:|:---:|
-|Week 1 Quiz|5%|80%|
-|Week 1 Notebook Assignment|18%|80%|
-|Week 2 Quiz|5%|80%|
-|Week 2 Notebook Assignment|18%|80%|
-|Week 3 Quiz|5%|80%|
-|Week 3 Notebook Assignment|18%|80%|
-|Week 4 Quiz|5%|80%|
-|Week 4 Notebook Assignment|26%|80%|
-
+I have audited this course.
 
 #
+
 #
-#### ***Kudos!!!***
+
+#### **_Kudos!!!_**
 
 Warm Regards, \
-Piyush Sambhi \
-Email: piyush.sambhi07@icloud.com \
-Git URL: https://github.com/sambhipiyush
+Pankaj Chandravanshi \
+Email: chandravanshi.pankaj@gmail.com \
